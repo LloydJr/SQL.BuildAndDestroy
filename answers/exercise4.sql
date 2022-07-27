@@ -1,0 +1,1 @@
+mysql> DROP TABLE Users;

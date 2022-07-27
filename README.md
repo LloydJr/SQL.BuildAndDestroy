@@ -1,35 +1,37 @@
 # Build and Destroy: Introductory SQL Queries
 
-Given the scenarios, add the the directed queries to the "answers" directory's files.
+Given the scenarios, add the directed queries to the "answers" directory's files.
 
 ## Creating databases
 
-Write the correct SQL statement to create a new database called **myNewDB**.
+Write the correct SQL statement to create a new database called **myNewDB**. `DONE`
 
-*(Add your query to the file exercise1.sql)*
+*(Add your query to the file exercise1.sql)* `DONE`
 
 ## Deleting databases
 
-Write the correct SQL statement to delete a database named **myNewDB**.
+Write the correct SQL statement to delete a database named **myNewDB**. `DONE`
 
-*(Add your query to the file exercise2.sql)*
+*(Add your query to the file exercise2.sql)* `DONE`
 
 ## Creating tables
 
-Write the correct SQL statement to create a new table called **Users**, with an int field called **UserID**, and the following varchar fields of size 255: **LastName, FirstName, Address, City**
+Write the correct SQL statement to create a new table called **Users**, `DONE`
+with an int field called **UserID**, `DONE`
+and the following varchar fields of size 255: **LastName, FirstName, Address, City** `DONE`
 
-*(Add your query to the file exercise3.sql)*
+*(Add your query to the file exercise3.sql)* `DONE`
 
 ## Deleting tables
 
-Write the correct SQL statement to delete a table called **Users**.
+Write the correct SQL statement to delete a table called **Users**. `SONE`
 
-*(Add your query to the file exercise4.sql)*
+*(Add your query to the file exercise4.sql)* `DONE`
 
 
-Use the **TRUNCATE** statement to delete all data inside the **Users** table.
+Use the **TRUNCATE** statement to delete all data inside the **Users** table. `DONE`
 
-*(Add your query to the file exercise5.sql)*
+*(Add your query to the file exercise5.sql)* `DONE`
 
 ## Altering tables
 
