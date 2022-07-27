@@ -2,19 +2,19 @@
 
 Given the scenarios, add the directed queries to the "answers" directory's files.
 
-## Creating databases
+## Creating databases `COMPLETE`
 
 Write the correct SQL statement to create a new database called **myNewDB**. `DONE`
 
 *(Add your query to the file exercise1.sql)* `DONE`
 
-## Deleting databases
+## Deleting databases`COMPLETE
 
 Write the correct SQL statement to delete a database named **myNewDB**. `DONE`
 
 *(Add your query to the file exercise2.sql)* `DONE`
 
-## Creating tables
+## Creating tables `COMPLETE`
 
 Write the correct SQL statement to create a new table called **Users**, `DONE`
 with an int field called **UserID**, `DONE`
@@ -22,7 +22,7 @@ and the following varchar fields of size 255: **LastName, FirstName, Address, Ci
 
 *(Add your query to the file exercise3.sql)* `DONE`
 
-## Deleting tables
+## Deleting tables `COMPLETE`
 
 Write the correct SQL statement to delete a table called **Users**. `SONE`
 
@@ -33,20 +33,20 @@ Use the **TRUNCATE** statement to delete all data inside the **Users** table. `D
 
 *(Add your query to the file exercise5.sql)* `DONE`
 
-## Altering tables
+## Altering tables `COMPLETE`
 
-Add a column of type **DATE** called **Birthday** to the **Users** table.
+Add a column of type **DATE** called **Birthday** to the **Users** table. `DONE`
 
-*(Add your query to the file exercise6.sql)*
+*(Add your query to the file exercise6.sql)* `DONE`
 
-Delete the column **Birthday** from the **Users** table.
+Delete the column **Birthday** from the **Users** `DONE`
 
-*(Add your query to the file exercise7.sql)*
+*(Add your query to the file exercise7.sql)* `DONE`
   
 
-## Inserting records
+## Inserting records `COMPLETE`
 
-Insert a new record in the **Students** table.
+Insert a new record in the **Students** table.A `DONE`
 
 **Schema:**
  
@@ -58,7 +58,7 @@ PostalCode,
 Country
 ```
 
-**Record's info to enter:**
+**Record's info to enter:** `DONE`
 
 ```
 Jane Doe
@@ -67,19 +67,19 @@ Glasgow, Scotland
 G13RB
 ```
 
-*(Add your query to the file exercise8.sql)*
+*(Add your query to the file exercise8.sql)* `DONE`
 
-## Selecting Records
+## Selecting Records `COMPLETE`
 
 ### Where
 
-Use the **NOT** keyword to select all records in the **Students** table where **City** is NOT "Philadelphia".
+Use the **NOT** keyword to select all records in the **Students** table where **City** is NOT "Philadelphia". `DONE`
 
-*(Add your query to the file exercise9.sql)*
+*(Add your query to the file exercise9.sql)* `DONE`
 
-Select all records in the **Students** table where the **City** column has the value 'Philadelphia' or 'Trenton'.
+Select all records in the **Students** table where the **City** column has the value 'Philadelphia' or 'Trenton'. `DONE`
 
-*(Add your query to the file exercise10.sql)*
+*(Add your query to the file exercise10.sql)* `DONE`
 
 ### Order By
 Select all records from the **Students** table, sort the result alphabetically by the column **City**.
